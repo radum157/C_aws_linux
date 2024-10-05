@@ -1,0 +1,6 @@
+/aws
+/*.o
+/utils/*.o
+/http-parser/*.o
+/static/
+/dynamic/
